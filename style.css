@@ -40,3 +40,6 @@ nav{
     border-color: #495057;
 }
 
+#subscribeButton {
+	align-items: center;
+}
